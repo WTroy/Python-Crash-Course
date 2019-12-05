@@ -14,3 +14,4 @@
       django-bootstrap3==11.0.0  
       pytz==2019.1  
       sqlparse==0.3.0
+      ... 以实际为准。
